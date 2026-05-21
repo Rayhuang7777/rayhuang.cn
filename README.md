@@ -1,8 +1,7 @@
-# Ray Wong — Student Portfolio Website
+# Zirui Huang — Student Portfolio Website
 
-A modern personal portfolio website designed for university applications.
 
-Built to showcase academic interests, projects, leadership experiences, and creative work in a clean and technology-inspired style.
+The website built to showcase academic interests, projects, leadership experiences, and creative work in a clean and technology-inspired style.
 
 ---
 
@@ -10,7 +9,6 @@ Built to showcase academic interests, projects, leadership experiences, and crea
 
 The website includes:
 
-- Hero Section
 - About Me
 - Projects
 - Resume Timeline
@@ -20,10 +18,9 @@ The website includes:
 
 ## About Me
 
-Hi, I'm **Ray Wong**, a high school student interested in:
+Hi, I'm **Zirui Huang**, a high school student interested in:
 
-🎸 Music Performance  
-🎥 Film & Media Production  
+🎸 Music Performance   
 📸 Photography  
 🌍 Youth Cultural Projects  
 📖 Philosophy & Liberal Arts  
@@ -48,24 +45,11 @@ Goals:
 
 ---
 
-### Short Film Project
-
-An experimental short film exploring the influence of digital media and short-form content on modern life.
-
----
 
 ### Student Media Studio
 
 Photography and video production through student organizations and campus media projects.
 
----
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Responsive Design
-- GitHub Pages
 
 ---
 
@@ -116,26 +100,24 @@ Planned features:
 - Media Gallery
 - Project Case Studies
 - Interactive Timeline
-- Animation Effects
 - Application Portfolio Section
-- University Journey Page
 
 ---
 
 ## Contact
 
-Email:
+Email: sevenrwong@gmail.com
 
 ```txt
-your@email.com
+sevenrwong@gmail.com
 ```
 
 Instagram:
 
 ```txt
-@youraccount
+
 ```
 
 ---
 
-© 2026 Ray Wong Portfolio
+© 2026 Zirui Huang Portfolio
